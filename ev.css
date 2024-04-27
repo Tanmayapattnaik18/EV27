@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 
-header {
+.header {
   background-color: black;
   color: white;
   padding: 20px;
