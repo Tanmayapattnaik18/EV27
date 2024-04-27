@@ -15,11 +15,14 @@ header {
 
 h1 {
   margin: 0;
+  line-height: 48px;
+  font-size: 40px;
+  font-weight: bolder;
 }
 
 #category-filter,
 #sort-order {
-  margin-right: 20px;
+  margin-right: 10px;
   padding: 10px;
   font-size: 16px;
   color: black;
@@ -27,7 +30,7 @@ h1 {
 
 #search-input {
   flex-grow: 0.1;
-  margin-left: -17%; 
+  margin-left: -14%; 
   margin-right: 20px;
   padding: 10px;
   font-size: 16px;
